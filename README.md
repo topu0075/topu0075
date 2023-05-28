@@ -33,6 +33,7 @@ As a blockchain enthusiast, my primary goal is to leverage my skills and experie
 If you're interested in discussing blockchain, web development, or collaborating on an exciting project, feel free to reach out to me via the following channels:
 
 GitHub: topu0075
+
 LinkedIn: https://www.linkedin.com/in/mostafizur-rahman-6b5b12157/
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the possibilities together. Happy coding! 😄
