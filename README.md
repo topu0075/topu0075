@@ -3,10 +3,12 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a strong focus on blockchain technology. With a total of 3 years of professional experience, including 2 years in blockchain development and 1 year as a junior web developer, I bring a diverse skill set to the table.
 
+<!--
 ---
 ### Language and Tools
-###### Blockchain
 
+###### Blockchain
+-->
 #
 💻 Expertise:
  - Blockchain Platforms: Ethereum, Hyperledger Besu, Bitcore, Solana, Hyperledger Fabric
@@ -20,21 +22,17 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
   - Knowledge in Blockchain Ecosystem: In addition to Ethereum, I have a basic understanding of other blockchain platforms, such as Solana and Hyperledger Fabric. This allows me to adapt and work on different blockchain ecosystems as per project requirements.
   - Problem Solving and Collaboration: I thrive on tackling complex problems and finding innovative solutions. I believe in the power of collaboration and enjoy working in diverse teams to build scalable and efficient software solutions.
 
+#
+🚀 My Goals:
 
+As a blockchain enthusiast, my primary goal is to leverage my skills and experience to contribute to the development of decentralized systems and drive the adoption of blockchain technology in real-world applications. I'm always excited to explore new opportunities and challenges that allow me to push the boundaries of what is possible with blockchain technology.
 
-### Hi there 👋
+#
+📫 Let's Connect:
 
-<!--
-**topu0075/topu0075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you're interested in discussing blockchain, web development, or collaborating on an exciting project, feel free to reach out to me via the following channels:
 
-Here are some ideas to get you started:
+GitHub: topu0075
+LinkedIn: https://www.linkedin.com/in/mostafizur-rahman-6b5b12157/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the possibilities together. Happy coding! 😄
