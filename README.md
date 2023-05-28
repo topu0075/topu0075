@@ -3,13 +3,33 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a strong focus on blockchain technology. With a total of 3 years of professional experience, including 2 years in blockchain development and 1 year as a junior web developer, I bring a diverse skill set to the table.
 
-<!--
 ---
 ### Language and Tools
 
 ###### Blockchain
--->
-#
+<div>
+ <img align="left" alt="Ethereum" width="25px" src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-diamond-purple.svg" style="max-width: 100%;">
+ <img align="left" alt="Solana" width="35px" height="40px" src="https://cryptologos.cc/logos/solana-sol-logo.svg" style="max-width: 100%;">
+ <img align="left" alt="Solidity" width="38px" src="https://img.icons8.com/material/240/solidity.png" style="max-width: 100%;">
+ <br/>
+</div>
+
+ 
+ ###### Web
+ 
+ <div>
+  <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;">
+  <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;">
+  <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;">
+  <img align="left" alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">    
+  <br/>   
+</div>
+
+
+ #
+ 
+ 
+ 
 💻 Expertise:
  - Blockchain Platforms: Ethereum, Hyperledger Besu, Bitcore, Solana, Hyperledger Fabric
  - Blockchain (Smart Contract): Solidity
