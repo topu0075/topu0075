@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
  <img align="left" alt="Solidity" width="120px" src="https://www.hyperledger.org/wp-content/uploads/2018/10/Hyperledger-Fabric.png" style="max-width: 100%;">
  <img align="left" alt="React" width="45px" src="https://github.com/topu0075/topu0075/blob/main/web3js-seeklogo.com.svg" style="max-width: 100%;">
  <img align="left" alt="React" width="55px" src="https://github.com/topu0075/topu0075/blob/main/ethers-seeklogo.com.svg" style="max-width: 100%;">
- <img align="left" alt="Tailwind" width="55px" src="https://i.ibb.co/hdHgfkg/tailwind.png" style="max-width: 100%;">
+ 
  <br/>
 </div>
 
@@ -26,7 +26,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
   <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;">
   <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;">
   <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;">
-  <img align="left" alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">    
+  <img align="left" alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">
+  <img align="left" alt="Tailwind" width="55px" src="https://i.ibb.co/hdHgfkg/tailwind.png" style="max-width: 100%;">
   <br/>   
 </div>
 
