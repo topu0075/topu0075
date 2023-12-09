@@ -56,11 +56,23 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 
 As a blockchain enthusiast, my primary goal is to leverage my skills and experience to contribute to the development of decentralized systems and drive the adoption of blockchain technology in real-world applications. I'm always excited to explore new opportunities and challenges that allow me to push the boundaries of what is possible with blockchain technology.
 
+🔭 I’m recently worked on 
+
+1. [Campus Cook](https://hmsassignment12-rahmantopi.netlify.app/)
+    Streamline hostel meal management with this system built using Node.js, Express.js, and MongoDB. Features include secure authentication, meal creation, scheduling, and user dashboards. Easy setup—clone, install, and run!
+
+2. [Job Hunter](https://jobhunter-rahmantopu67.netlify.app/)
+   jobHunter is a React-based web application that simplifies job hunting by allowing users to search and apply for job postings. The project utilizes technologies such as React, Redux, Node.js, Express, and MongoDB. Features include job search, easy application submission, user accounts, and responsive design.
+
+3. [ElectroHut](https://electrohub-8ebc4.web.app/)
+    ElectroHut is a product showcasing web app designed to captivate clients. Utilizing React.js, Node.js, and MongoDB, it offers a seamless experience with features like user authentication, responsive design, and an intuitive admin panel for easy product management. Get started quickly and efficiently present your products with ElectroHut!
+
 #
 📫 Let's Connect:
 
 If you're interested in discussing blockchain, web development, or collaborating on an exciting project, feel free to reach out to me via the following channels:
 
 LinkedIn: https://www.linkedin.com/in/mostafizur-rahman-6b5b12157/
+mail: rahman.topu67@gmail.com
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the possibilities together. Happy coding! 😄
