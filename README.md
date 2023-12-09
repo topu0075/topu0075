@@ -1,7 +1,7 @@
 ### I'm Mostafiz,
-###### A Blockchain Software Engineer.
+###### A Software Engineer (Blockchain || Frontend)
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a strong focus on blockchain technology. With a total of 3 years of professional experience, including 2 years in blockchain development and 1 year as a junior web developer, I bring a diverse skill set to the table.
+Welcome to my GitHub profile! I'm a passionate software engineer with a strong focus on blockchain technology also strong working knowledge in frontend. With a total of 3.5 years of professional experience, including 2.5 years in blockchain development and 1 year as a junior web developer, I bring a diverse skill set to the table.
 
 ---
 ### Language and Tools
