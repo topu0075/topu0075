@@ -10,9 +10,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 <div>
  <img align="left" alt="Ethereum" width="25px" src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-diamond-purple.svg" style="max-width: 100%;">
  <img align="left" alt="Solana" width="35px" height="40px" src="https://cryptologos.cc/logos/solana-sol-logo.svg" style="max-width: 100%;">
- <img align="left" alt="Solidity" width="38px" src="https://i.ibb.co/hMrSGTL/solidity.png" style="max-width: 100%;">
+ <img align="left" alt="Solidity" width="38px" src="https://img.icons8.com/material/240/solidity.png" style="max-width: 100%;">
  <img align="left" alt="Solidity" width="110px" src="https://github.com/topu0075/topu0075/blob/main/dlf.pt-thx-logo-png-5639804.png" style="max-width: 100%;">
- <img align="left" alt="Solidity" width="120px" src="https://www.hyperledger.org/wp-content/uploads/2018/10/Hyperledger-Fabric.png" style="max-width: 100%;">
  <img align="left" alt="React" width="45px" src="https://github.com/topu0075/topu0075/blob/main/web3js-seeklogo.com.svg" style="max-width: 100%;">
  <img align="left" alt="React" width="55px" src="https://github.com/topu0075/topu0075/blob/main/ethers-seeklogo.com.svg" style="max-width: 100%;">
  
