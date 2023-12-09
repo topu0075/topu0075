@@ -1,3 +1,5 @@
+![Header](./banner.jpg)
+
 ### I'm Mostafiz,
 ###### A Software Engineer (Blockchain || Frontend)
 
@@ -27,6 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
   <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;">
   <img align="left" alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">
   <img align="left" alt="Tailwind" width="55px" src="https://i.ibb.co/hdHgfkg/tailwind.png" style="max-width: 100%;">
+  <img align="left" alt="JS" width="30px" src="https://i.ibb.co/tzm118d/nodejs-1-logo-png-transparent.png" style="max-width: 100%;"> 
   <br/>   
 </div>
 
