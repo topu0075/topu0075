@@ -1,4 +1,4 @@
-![Header](./banner.jpg)
+![Header](https://i.ibb.co/L6nV4Kg/banner.png)
 
 ### I'm Mostafiz,
 ###### A Software Engineer (Blockchain || Frontend)
